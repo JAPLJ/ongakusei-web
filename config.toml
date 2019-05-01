@@ -2,3 +2,42 @@ baseURL = "https://kyoto.ongakusei.tokyo"
 languageCode = "ja-jp"
 title = "音楽性の違いにより結成しました"
 theme = "beautifulhugo"
+
+[Params]
+  subtitle = "音が鳴る CD とかを作りたい同人音楽サークルです"
+  favicon = "img/favicon.ico"
+  dateFormat = "May 1, 2019"
+
+[Author]
+  name = "Jeipouju & yoho"
+  website = "https://kyoto.ongakusei.tokyo"
+  email = "ongakusei.no.chigai@gmail.com"
+  twitter = "ongakusei"
+  soundcloud = "ongakusei"
+  youtube = "channel/UC4XOm6qFnEjJ_Ypj9cQVXMQ"
+  bandcamp = "ongakusei"
+
+[[menu.main]]
+  name = "Blog (Top)"
+  url = ""
+  weight = 1
+
+[[menu.main]]
+  name = "Members"
+  url = "members/"
+  weight = 2
+
+[[menu.main]]
+  name = "Discography / Works"
+  url = "works/"
+  weight = 3
+
+[[menu.main]]
+  name = "Events"
+  url = "events/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "contact/"
+  weight = 5
