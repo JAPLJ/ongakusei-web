@@ -1,0 +1,7 @@
+<div {{ with .Get "class" }}class="{{.}}"{{ end }}
+  style="
+    display: flex;
+    justify-content: {{ .Get "justify-content" | default "center" }};
+  ">
+  {{ .Inner }}
+</div>

@@ -1,0 +1,7 @@
+<div {{ with .Get "class" }}class="{{.}}"{{ end }}
+  style="
+    {{ with .Get "width" }}flex-basis:{{.}};{{ end }}
+    padding: 10px;
+  ">
+  {{ .Inner }}
+</div>
