@@ -1,0 +1,35 @@
+h2 {
+  border-bottom: solid 1px #ccc;
+}
+
+.cd_info #cd_title {
+  border-bottom: 1px solid #ccc;
+}
+
+.cd_info .info {
+  border-bottom: 1px dashed #ddd;
+  margin: 0 0 5px 0;
+}
+
+#tracklist .track {
+  font-size: 120%;
+  margin-bottom: 12px;
+}
+
+#tracklist .track .composer {
+  font-size: 70%;
+  font-weight: normal;
+  color: #888;
+  display: inline-block;
+  padding-left: 0.3em;
+}
+
+#staffs .staff {
+  border-bottom: 1px dashed #ddd;
+  margin: 0 0 5px 0;
+  width: 90%;
+}
+
+.discography_section {
+  margin-bottom: 40px;
+}
