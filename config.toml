@@ -3,6 +3,7 @@ languageCode = "ja-jp"
 title = "音楽性の違いにより結成しました"
 theme = "beautifulhugo"
 hasCJKLanguage = true
+googleAnalytics = "UA-107324647-3"
 
 [Params]
   subtitle = "音が鳴る CD とかを作りたい同人音楽サークルです"
