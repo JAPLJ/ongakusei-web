@@ -5,6 +5,21 @@ subtitle: チーム「音楽性の違い」や各メンバーの制作物
 
 ## Discography
 
+<!-- 4 -->
+{{<flexbox class="cd-section" justify-content="flex-start">}}
+  {{<flexitem width="220px">}}
+    {{<cd_section_image href="/discography/004/" src="/img/004/jacket.png">}}
+  {{</flexitem>}}
+  {{%flexitem%}}
+\#4
+
+### False Crown
+
+M3-2019秋 新譜
+  {{%/flexitem%}}
+{{</flexbox>}}
+
+
 <!-- 3 -->
 {{<flexbox class="cd-section" justify-content="flex-start">}}
   {{<flexitem width="220px">}}
