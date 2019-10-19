@@ -1,1 +1,3 @@
-<li class="track">{{ .Get "name" }}{{ with .Get "subtitle" }}<small> {{.}}</small>{{ end }} <strong class="composer">/ {{ .Get "composer" }}</strong></li>
+<li class="track">{{ .Get "name" }}{{ with .Get "subtitle" }}<small> {{.}}</small>{{ end }} <strong class="composer">/
+    {{ .Get "composer" }}</strong>
+  {{ with .Get "trailer" }}<audio style="height:1.3em; float: right;" src="{{.}}" controls></audio>{{ end }}</li>
