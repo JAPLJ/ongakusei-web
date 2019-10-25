@@ -1,0 +1,17 @@
+.circle_info {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+h2 {
+  border-bottom: solid 1px #ccc;
+}
+
+.cd_info #cd_title {
+  border-bottom: 1px solid #ccc;
+}
+
+.cd_info .info {
+  border-bottom: 1px dashed #ddd;
+  margin: 0 0 5px 0;
+}
