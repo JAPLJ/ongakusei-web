@@ -5,6 +5,20 @@ subtitle: チーム「音楽性の違い」や各メンバーの制作物
 
 ## Discography
 
+<!-- 5 -->
+{{<flexbox class="cd-section" justify-content="flex-start">}}
+  {{<flexitem width="220px">}}
+    {{<cd_section_image href="/discography/005/" src="/img/005/jacket_large.png">}}
+  {{</flexitem>}}
+  {{%flexitem%}}
+\#5
+
+### False Crown VERUM
+
+M3-2020春 新譜
+  {{%/flexitem%}}
+{{</flexbox>}}
+
 <!-- 4 -->
 {{<flexbox class="cd-section" justify-content="flex-start">}}
   {{<flexitem width="220px">}}
