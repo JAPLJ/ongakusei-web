@@ -81,6 +81,7 @@ M3-2017秋 新譜
 
 各メンバーの他サークル様作品への参加情報などをまとめています。
 
+- [Tokyo Cassette Noise Club](https://twitter.com/tokyocassette) 様の [Tape Hiss Vol.2](https://twitter.com/TokyoCassette/status/1313796218406023170) に Jeipouju が 1 曲参加
 - [Tokyo Cassette Noise Club](https://twitter.com/tokyocassette) 様の [Lo-fi Alert](https://tokyocassettenoiseclub.bandcamp.com/album/lo-fi-alert) に Jeipouju が 1 曲参加
 - [Tokyo Cassette Noise Club](https://twitter.com/tokyocassette) 様の [Tape hiss Vol​.​1 - deep emotional -](https://tcnc001.tumblr.com/) に Jeipouju が 1 曲参加
 - [AECRNIA](https://keishoabe.wixsite.com/aecrnia) 様制作の音楽ゲーム [URO2](https://keishoabe.wixsite.com/uro2) に Jeipouju および yoho の楽曲が 1 曲ずつ収録
