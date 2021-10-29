@@ -5,6 +5,20 @@ subtitle: チーム「音楽性の違い」や各メンバーの制作物
 
 ## Discography
 
+<!-- 6 -->
+{{<flexbox class="cd-section" justify-content="flex-start">}}
+  {{<flexitem width="220px">}}
+    {{<cd_section_image href="/discography/006/" src="/img/006/jacket_large.png">}}
+  {{</flexitem>}}
+  {{%flexitem%}}
+\#6
+
+### 世界の書
+
+M3-2021秋 新譜
+  {{%/flexitem%}}
+{{</flexbox>}}
+
 <!-- 5 -->
 {{<flexbox class="cd-section" justify-content="flex-start">}}
   {{<flexitem width="220px">}}
